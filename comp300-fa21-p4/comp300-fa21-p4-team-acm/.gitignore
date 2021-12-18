@@ -1,0 +1,8 @@
+#.gitignore
+
+*.asc
+*.bin
+*.json
+*.log
+*.rpt
+*.elf
